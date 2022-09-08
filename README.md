@@ -1,1 +1,1 @@
-# Conclusão do Curseo de Arquitetura com NextJS e Monorepos Front End
+# Conclusão do Curso de Arquitetura com NextJS e Monorepos Front end
