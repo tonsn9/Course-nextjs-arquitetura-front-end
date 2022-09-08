@@ -1,5 +1,5 @@
 {
   "extends": "@alura/tsconfig-commons/base.json",
-
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "moduleResolution": "node"
 }
