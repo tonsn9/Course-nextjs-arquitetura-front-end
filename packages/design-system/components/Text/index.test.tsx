@@ -5,8 +5,8 @@ const render = customRender();
 
 describe("<Text />", () => {
   it("renders h1 tag", () => {
-    const { container } = render(<Text tag="h1">Sample Text</Text>);
+    const { container } = render(<Text tag="h2">Sample Text</Text>);
 
-    expext(containar).toMatchInlineSnapshot();
+    expect(container).toMatchSnapshot();
   });
 });
